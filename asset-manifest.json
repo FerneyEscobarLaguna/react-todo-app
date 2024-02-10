@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FerneyEscobarLaguna/react-todo-app/static/css/main.f1742766.css",
-    "main.js": "/FerneyEscobarLaguna/react-todo-app/static/js/main.3860807a.js",
-    "index.html": "/FerneyEscobarLaguna/react-todo-app/index.html",
-    "static/media/delete.svg": "/FerneyEscobarLaguna/react-todo-app/static/media/delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
-    "static/media/check.svg": "/FerneyEscobarLaguna/react-todo-app/static/media/check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
-    "main.f1742766.css.map": "/FerneyEscobarLaguna/react-todo-app/static/css/main.f1742766.css.map",
-    "main.3860807a.js.map": "/FerneyEscobarLaguna/react-todo-app/static/js/main.3860807a.js.map"
+    "main.css": "/react-todo-app/static/css/main.f1742766.css",
+    "main.js": "/react-todo-app/static/js/main.cac7c31b.js",
+    "index.html": "/react-todo-app/index.html",
+    "static/media/delete.svg": "/react-todo-app/static/media/delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
+    "static/media/check.svg": "/react-todo-app/static/media/check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
+    "main.f1742766.css.map": "/react-todo-app/static/css/main.f1742766.css.map",
+    "main.cac7c31b.js.map": "/react-todo-app/static/js/main.cac7c31b.js.map"
   },
   "entrypoints": [
     "static/css/main.f1742766.css",
-    "static/js/main.3860807a.js"
+    "static/js/main.cac7c31b.js"
   ]
 }
